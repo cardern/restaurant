@@ -17,9 +17,6 @@ $(document).ready(function(){
 	rList.push("Vietnamese Noodles"); 
 	rLink.push("http://vietnamesenoodles.us/menu/");
 
-	rList.push("North Shore Bistro"); 
-	rLink.push("http://www.nsbbarandgrill.com/menu-entrees.html");
-
 	rList.push("Ferrante's"); 
 	rLink.push("http://www.ferrantes.com/menu.html");
 
@@ -47,9 +44,6 @@ $(document).ready(function(){
 	rList.push("Culver's"); 
 	rLink.push("http://www.culvers.com/menu-and-nutrition/");
 
-	rList.push("Brew City Barbecue"); 
-	rLink.push("http://www.allmenus.com/wi/milwaukee/9604-brew-city-bbq-downtown/menu/");
-
 	rList.push("Fiddleheads"); 
 	rLink.push("https://www.fiddleheadscoffee.com/fiddleheads_bakery_store.aspx");
 
@@ -65,9 +59,6 @@ $(document).ready(function(){
 	rList.push("Zaffiro's"); 
 	rLink.push("http://zaffirospizzeria.com/downloads/ZaffirosMenuWeb_052214.pdf");
 
-	rList.push("Devon Seafood Grill"); 
-	rLink.push("http://www.devonseafood.com/menus/dinner/164.pdf");
-
 	rList.push("Milwaukee Ale House"); 
 	rLink.push("http://ale-house.com/wp-content/uploads/2013/09/DinnerWithBeer.pdf");
 
@@ -77,8 +68,8 @@ $(document).ready(function(){
 	rList.push("Jimmy John's"); 
 	rLink.push("https://www.jimmyjohns.com/menu/#/");
 
-	rList.push("Centennial"); 
-	rLink.push("http://www.centennialbg.com/menu/");
+	rList.push("Sobelman's"); 
+	rLink.push("http://places.singleplatform.com/soblemans-pub/menu");
 
 	rList.push("Jose's Blue Sombrero"); 
 	rLink.push("http://www.josesbluesombrero.com/menu/");
@@ -110,15 +101,6 @@ $(document).ready(function(){
 	rList.push("Fresh (at Pavillion)"); 
 	rLink.push("");
 
-	rList.push("Blaze Pizza"); 
-	rLink.push("http://www.blazepizza.com/menu/signature-pizzas");
-
-	rList.push("Sprecher's Pub"); 
-	rLink.push("http://www.sprecherspub.com/welcome/#dinner-menu");
-
-	rList.push("Big Daddy's BBQ"); 
-	rLink.push("http://bigdaddysbbq-stpaul.com/");
-
 	rList.push("Quizno's"); 
 	rLink.push("http://www.quiznos.com/Menu/Food-menu.aspx");
 
@@ -134,15 +116,6 @@ $(document).ready(function(){
 	rList.push("Ian's Pizza"); 
 	rLink.push("http://ianspizza.com/menus/");
 
-	rList.push("Silver Spring House"); 
-	rLink.push("http://www.thesilverspringhouse.com/dinnermenu.php");
-
-	rList.push("Applebee's"); 
-	rLink.push("http://www.applebees.com/menu/entrees");
-
-	rList.push("Cosi"); 
-	rLink.push("https://getcosi.com/menu/entrees.html");
-
 	rList.push("Einstein Bros Bagels"); 
 	rLink.push("http://www.einsteinbros.com/menu/6/anytime-creations");
 
@@ -154,9 +127,6 @@ $(document).ready(function(){
 
 	rList.push("Taco Bell"); 
 	rLink.push("http://www.tacobell.com/food/menu/fourth-meal");
-
-	rList.push("Taylor and Dunn's"); 
-	rLink.push("http://tayloranddunns.com/menu/");
 
 	rList.push("Benji's Deli"); 
 	rLink.push("http://www.benjisdeliandrestaurant.com/uploads/2/2/5/1/22511402/benjis_091114.pdf");
