@@ -63,7 +63,7 @@ $(document).ready(function(){
 	rLink.push("http://ale-house.com/wp-content/uploads/2013/09/DinnerWithBeer.pdf");
 
 	rList.push("Fork (At Outpost)"); 
-	rLink.push("http://www.outpost.coop/userimages/J4115d%20FORK%20to%20go%20menu%20Mequon%2010_14(1).pdf");
+	rLink.push("https://www.outpost.coop/userimages/mq%20men.pdf");
 
 	rList.push("Jimmy John's"); 
 	rLink.push("https://www.jimmyjohns.com/menu/#/");
@@ -95,17 +95,11 @@ $(document).ready(function(){
 	rList.push("Tomaso's Pizzeria"); 
 	rLink.push("http://www.tomasoscedarburg.com/menu.cfm?id=11");
 
-	rList.push("Fresh Market (Deli Menu)"); 
-	rLink.push("");
-
-	rList.push("Fresh (at Pavillion)"); 
-	rLink.push("");
-
 	rList.push("Quizno's"); 
 	rLink.push("http://www.quiznos.com/Menu/Food-menu.aspx");
 
 	rList.push("Out & Out Custard and Sandwiches"); 
-	rLink.push("http://www.outandoutcustard.com/files/Menu.pdf");
+	rLink.push("https://www.outandoutcustard.com/eatery-menu");
 
 	rList.push("Water Street Brewery (Grafton)"); 
 	rLink.push("https://www.waterstreetbrewery.com/images/menus/downtownfullmenu.pdf");
@@ -113,17 +107,14 @@ $(document).ready(function(){
 	rList.push("Boston Market"); 
 	rLink.push("http://www.bostonmarket.com/ourFood?page=foodSub&id=1&name=Individual+Meals");
 
-	rList.push("Ian's Pizza"); 
-	rLink.push("http://ianspizza.com/menus/");
+	rList.push("Lou Malnati's Pizzeria (Fox Point)"); 
+	rLink.push("https://order.loumalnatis.com/");
 
 	rList.push("Einstein Bros Bagels"); 
 	rLink.push("http://www.einsteinbros.com/menu/6/anytime-creations");
 
 	rList.push("The Charcoal Grill"); 
 	rLink.push("http://www.charcoalgrill.com/menu-burgers.html");
-
-	rList.push("El Paisa"); 
-	rLink.push("http://www.lospaisa.com/menu");
 
 	rList.push("Taco Bell"); 
 	rLink.push("http://www.tacobell.com/food/menu/fourth-meal");
