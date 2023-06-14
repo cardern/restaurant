@@ -50,14 +50,11 @@ $(document).ready(function(){
 	rList.push("Chancery"); 
 	rLink.push("http://www.thechancery.com/wp-content/uploads/Chancery-Core-Menu-White-Bi-Fold-23-Final.pdf");
 
-	rList.push("Melthouse Bistro"); 
-	rLink.push("http://www.melthousebistro.com/cmsAdmin/uploads/MHB_Take_Out_Menu_Revised_April_2014_web.pdf");
-
 	rList.push("Bar Louie"); 
 	rLink.push("http://www.barlouieamerica.com/menu/eat/plates.aspx#menu");
 
 	rList.push("Zaffiro's"); 
-	rLink.push("http://zaffirospizzeria.com/downloads/ZaffirosMenuWeb_052214.pdf");
+	rLink.push("https://www.ubereats.com/store/zaffiros-pizza-northshore/8Y7rYyKvSt2aRp5aBg2FPQ");
 
 	rList.push("Milwaukee Ale House"); 
 	rLink.push("http://ale-house.com/wp-content/uploads/2013/09/DinnerWithBeer.pdf");
@@ -68,20 +65,17 @@ $(document).ready(function(){
 	rList.push("Jimmy John's"); 
 	rLink.push("https://www.jimmyjohns.com/menu/#/");
 
-	rList.push("Sobelman's"); 
-	rLink.push("http://places.singleplatform.com/soblemans-pub/menu");
-
 	rList.push("Jose's Blue Sombrero"); 
 	rLink.push("http://www.josesbluesombrero.com/menu/");
+
+	rList.push("Cafe Hollander (Mequon)"); 
+	rLink.push("https://www.ubereats.com/store/cafe-hollander-mequon/yoBOjpthUXWhMRYOkNCnuA");
 
 	rList.push("Leonardo's Pizza"); 
 	rLink.push("http://www.leonardospizzamequon.com/menu.htm");
 
 	rList.push("Highland House"); 
 	rLink.push("http://0101.nccdn.net/1_5/34c/2d9/19b/Dinner-menu-PRINT--3-.pdf");
-
-	rList.push("The Roman Candle"); 
-	rLink.push("http://theromancandle.com/wp-content/uploads/2012/01/TRC_MSN_Fall2014Menu_November2014.pdf");
 
 	rList.push("Cheesecake Factory"); 
 	rLink.push("http://www.thecheesecakefactory.com/menu/");
